@@ -4,7 +4,7 @@ Last revised: November 14th, 2016
 
 This privacy policy governs your use of the software application **Filters, Filters.** for mobile devices that was created by Shakd, LLC.
 
-Filters, Fitlers. a photo-editing tool.
+**Filters, Fitlers.** is a photo-editing tool.
 
 ##What information does the Application obtain and how is it used?
 
