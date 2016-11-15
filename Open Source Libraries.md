@@ -1,5 +1,5 @@
 #Open Source Libraries
-The following sets forth attribution notices for third party software that may be contained in portions of the Habit iOS application. We thank the open source community for all of their contributions.
+The following sets forth attribution notices for third party software that may be contained in portions of the **Filters, Filters.** iOS application. We thank the open source community for all of their contributions.
 
 [SnapKit](https://github.com/SnapKit/SnapKit)
 
